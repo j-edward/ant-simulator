@@ -5,4 +5,7 @@ Simulates a collection of Ants swarming food, then moving it back to the nest.
 Ants also communicate between nearby colleagues, transmitting information with regards to the location of food and nests.  
 Enemy ants are also included, aiming to steal food away from other ants and move it to their own base. 
 
-Also see debugging tools on the side, shows how close ants are to transfering information etc. and nest pheramone range.
+Also see debugging tools on the side, shows how close ants are to transfering information etc. and nest pheramone range.  
+
+
+I will update this in due time, as it was one of my first programming modules in year 1 - so not the best code I've ever written.
